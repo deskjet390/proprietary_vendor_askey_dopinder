@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),dopinder)
+ifeq ($(TARGET_DEVICE),yoc)
 
 endif
